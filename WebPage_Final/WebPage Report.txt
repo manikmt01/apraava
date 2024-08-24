@@ -1,0 +1,89 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: WebPage.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 1920 px x 9172.585 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+PANTONE 2935 C (CMYK)
+PANTONE 355 C (CMYK)
+PANTONE 7549 C (CMYK)
+PANTONE Orange 021 C (CMYK)
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Tabular Bold (TrueType)
+Neptune Medium (OTF)
+Neptune (TrueType)
+Neptune Bold (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/akshaykumar/Library/CloudStorage/OneDrive-Personal/Aapravaa/Behance-01.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 74993K, 2067 by 12384 pixels
+Dimensions: 1965.459 by 11775.639 points 
+Resolution: 75.72 by 75.72 pixels per inch
+
+
+/Users/akshaykumar/Library/CloudStorage/OneDrive-Personal/Apraava 2023/29062023_APAARAVA_Consolidated_v07.1/Links/Apraava_Manufactured Capital cover.ai
+Type: PDF
+
+/Users/akshaykumar/Library/CloudStorage/OneDrive-Personal/Apraava 2023/29062023_APAARAVA_Consolidated_v07.1/Links/Apraava_Financial Capital cover.ai
+Type: PDF
+
+/Users/akshaykumar/Library/CloudStorage/OneDrive-Personal/Apraava 2023/29062023_APAARAVA_Consolidated_v07.1/Links/Apraava_Human Capital cover.ai
+Type: PDF
+
+/Users/akshaykumar/Library/CloudStorage/OneDrive-Personal/Apraava 2023/29062023_APAARAVA_Consolidated_v07.1/Links/Apraava Social Capital cove v02.ai
+Type: PDF
+
+/Users/akshaykumar/Library/CloudStorage/OneDrive-Personal/Apraava 2023/29062023_APAARAVA_Consolidated_v07.1/Links/Apraava_Natural Capital cover v02.ai
+Type: PDF
+
+/Users/akshaykumar/Library/CloudStorage/OneDrive-Personal/Apraava 2023/29062023_APAARAVA_Consolidated_v07.1/Links/Apraava_Intellectual capital cover_v03.ai
+Type: PDF
+
+/Users/akshaykumar/Library/CloudStorage/OneDrive-Personal/Apraava 2023/Apraava_Intro Folder final/Links/_ESH9490.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 99033K, 6167 by 4111 pixels
+Dimensions: 1578.121 by 1051.995 points 
+Resolution: 281.363 by 281.363 pixels per inch
+
+
+/Users/akshaykumar/Library/CloudStorage/OneDrive-Personal/Apraava 2023/Apraava_Intro Folder/Links/Asset 3@4x.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10309K, 1352 by 1952 pixels
+Dimensions: 745.469 by 1076.299 points 
+Resolution: 130.581 by 130.581 pixels per inch
